@@ -1,0 +1,22 @@
+sending incremental file list
+
+sent 19 bytes  received 12 bytes  62.00 bytes/sec
+total size is 0  speedup is 0.00 (DRY RUN)
+sending incremental file list
+created directory /home/kali/Desktop/Bash-Script/Backup/current
+./
+earth.jpeg
+lion.jpeg
+rose.avif
+
+sent 146 bytes  received 96 bytes  484.00 bytes/sec
+total size is 1,006,298  speedup is 4,158.26 (DRY RUN)
+sending incremental file list
+created directory /home/kali/Desktop/Bash-Script/Backup/current
+./
+earth.jpeg
+lion.jpeg
+rose.avif
+
+sent 1,006,792 bytes  received 144 bytes  2,013,872.00 bytes/sec
+total size is 1,006,298  speedup is 1.00
